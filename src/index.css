@@ -1,0 +1,20 @@
+
+
+  
+  .page {
+    /* width: 70%; */
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    background-color: #f0ecec;
+  }
+  
+
+  .body {
+
+    background-color: #262626;
+  }
+ 
+  ul {
+    list-style-type: none;
+  }
